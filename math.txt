@@ -1,9 +1,3 @@
 ishfsfgs
 ggs
-<<<<<<< HEAD
-hss
-bhbd
-=======
-gfs
-bhb
->>>>>>> 7af29fc (again new lne)
+dgds
